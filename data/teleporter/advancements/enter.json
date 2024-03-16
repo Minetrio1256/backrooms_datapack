@@ -26,6 +26,6 @@
         }
     },
     "rewards": {
-        "function": "backrooms/level:teleportor"
+        "function": "backrooms/teleportor"
     }
 }
