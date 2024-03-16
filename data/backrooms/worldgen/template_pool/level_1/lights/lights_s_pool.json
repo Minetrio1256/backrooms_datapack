@@ -6,7 +6,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_0/lights/lights_on_s_template",
+        "location": "backrooms:level_1/lights/lights_on_s_template",
         "processors": "minecraft:empty"
       }
     },
@@ -15,7 +15,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_0/lights/lights_on_b_s_template",
+        "location": "backrooms:level_1/lights/lights_on_b_s_template",
         "processors": "minecraft:empty"
       }
     },
@@ -24,7 +24,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_0/lights/lights_off_s_template",
+        "location": "backrooms:level_1/lights/lights_off_s_template",
         "processors": "minecraft:empty"
       }
     }
