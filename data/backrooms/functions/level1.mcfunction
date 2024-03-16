@@ -1,0 +1,1 @@
+execute at @s in backrooms:level_1 run tp @s ~ 6 ~
