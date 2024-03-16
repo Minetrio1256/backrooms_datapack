@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "backrooms:level_0/walls_b_structure",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 2118978511,
+    "spacing": 8,
+    "separation": 7
+  }
+}

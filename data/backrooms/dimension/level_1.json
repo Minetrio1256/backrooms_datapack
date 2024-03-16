@@ -1,0 +1,41 @@
+{
+  "type": "backrooms:level_0",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "backrooms:warehouse",
+      "lakes": false,
+      "features": true,
+      "layers": [
+        {
+          "block": "minecraft:bedrock",
+          "height": 1
+        },
+        {
+          "block": "minecraft:stone",
+          "height": 4
+        },
+        {
+          "block": "minecraft:white_concrete_powder",
+          "height": 1
+        },
+        {
+          "block": "minecraft:air",
+          "height": 4
+        },
+        {
+          "block": "minecraft:white_concrete",
+          "height": 1
+        },
+        {
+          "block": "minecraft:stone",
+          "height": 4
+        },
+        {
+          "block": "minecraft:bedrock",
+          "height": 1
+        }
+      ]
+    }
+  }
+}

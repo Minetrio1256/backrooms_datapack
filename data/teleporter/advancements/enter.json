@@ -1,0 +1,31 @@
+{
+    
+    "display": {
+        "title": {
+            "text": "The backrooms?",
+            "color": "gold"
+        },
+        "description": {
+            "text": "Enter the level0"
+        },
+        "icon": {
+            "item": "minecraft:yellow_concrete"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "theTp": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "teleporter:teleporter"
+            }
+        }
+    },
+    "rewards": {
+        "function": "backrooms/level:teleportor"
+    }
+}
