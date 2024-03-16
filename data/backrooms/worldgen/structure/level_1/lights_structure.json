@@ -1,6 +1,6 @@
 {
   "type": "minecraft:jigsaw",
-  "biomes": "backrooms:lobby",
+  "biomes": "backrooms:warehouse",
   "step": "underground_structures",
   "spawn_overrides": {},
   "start_pool": "backrooms:level_1/lights/lights_pool",
