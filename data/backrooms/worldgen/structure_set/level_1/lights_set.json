@@ -1,0 +1,19 @@
+{
+  "structures": [
+    {
+      "structure": "backrooms:level_1/lights_structure",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1909812302,
+    "locate_offset": [
+      3,
+      0,
+      3
+    ],
+    "spacing": 1,
+    "separation": 0
+  }
+}
