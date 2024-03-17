@@ -6,7 +6,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z2",
+        "location": "backrooms:level_2/ceiling/a2",
         "processors": "minecraft:empty"
       }
     },
@@ -15,7 +15,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z3",
+        "location": "backrooms:level_2/ceiling/a3",
         "processors": "minecraft:empty"
       }
     },
@@ -24,7 +24,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z4",
+        "location": "backrooms:level_2/ceiling/a4",
         "processors": "minecraft:empty"
       }
     },
@@ -33,7 +33,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z5",
+        "location": "backrooms:level_2/ceiling/a5",
         "processors": "minecraft:empty"
       }
     },
@@ -42,7 +42,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z6",
+        "location": "backrooms:level_2/ceiling/a6",
         "processors": "minecraft:empty"
       }
     },
@@ -51,7 +51,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z7",
+        "location": "backrooms:level_2/ceiling/a7",
         "processors": "minecraft:empty"
       }
     },
@@ -60,7 +60,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z8",
+        "location": "backrooms:level_2/ceiling/a8",
         "processors": "minecraft:empty"
       }
     },
@@ -69,7 +69,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z9",
+        "location": "backrooms:level_2/ceiling/a9",
         "processors": "minecraft:empty"
       }
     },
@@ -78,7 +78,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z10",
+        "location": "backrooms:level_2/ceiling/a10",
         "processors": "minecraft:empty"
       }
     },
@@ -87,7 +87,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z11",
+        "location": "backrooms:level_2/ceiling/a11",
         "processors": "minecraft:empty"
       }
     },
@@ -96,7 +96,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z12",
+        "location": "backrooms:level_2/ceiling/a12",
         "processors": "minecraft:empty"
       }
     },
@@ -105,7 +105,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z13",
+        "location": "backrooms:level_2/ceiling/a13",
         "processors": "minecraft:empty"
       }
     },
@@ -114,7 +114,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z14",
+        "location": "backrooms:level_2/ceiling/a14",
         "processors": "minecraft:empty"
       }
     },
@@ -123,7 +123,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z15",
+        "location": "backrooms:level_2/ceiling/a15",
         "processors": "minecraft:empty"
       }
     },
@@ -132,7 +132,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z16",
+        "location": "backrooms:level_2/ceiling/a16",
         "processors": "minecraft:empty"
       }
     },
@@ -141,7 +141,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z17",
+        "location": "backrooms:level_2/ceiling/a17",
         "processors": "minecraft:empty"
       }
     },
@@ -150,7 +150,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z18",
+        "location": "backrooms:level_2/ceiling/a18",
         "processors": "minecraft:empty"
       }
     },
@@ -159,7 +159,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z19",
+        "location": "backrooms:level_2/ceiling/a19",
         "processors": "minecraft:empty"
       }
     },
@@ -168,7 +168,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z20",
+        "location": "backrooms:level_2/ceiling/a20",
         "processors": "minecraft:empty"
       }
     },
@@ -177,7 +177,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z21",
+        "location": "backrooms:level_2/ceiling/a21",
         "processors": "minecraft:empty"
       }
     },
@@ -186,7 +186,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z22",
+        "location": "backrooms:level_2/ceiling/a22",
         "processors": "minecraft:empty"
       }
     },
@@ -195,7 +195,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z23",
+        "location": "backrooms:level_2/ceiling/a23",
         "processors": "minecraft:empty"
       }
     },
@@ -204,7 +204,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z24",
+        "location": "backrooms:level_2/ceiling/a24",
         "processors": "minecraft:empty"
       }
     },
@@ -213,7 +213,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z25",
+        "location": "backrooms:level_2/ceiling/a25",
         "processors": "minecraft:empty"
       }
     },
@@ -222,7 +222,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z26",
+        "location": "backrooms:level_2/ceiling/a26",
         "processors": "minecraft:empty"
       }
     },
@@ -231,7 +231,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z27",
+        "location": "backrooms:level_2/ceiling/a27",
         "processors": "minecraft:empty"
       }
     },
@@ -240,7 +240,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z28",
+        "location": "backrooms:level_2/ceiling/a28",
         "processors": "minecraft:empty"
       }
     },
@@ -249,7 +249,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z29",
+        "location": "backrooms:level_2/ceiling/a29",
         "processors": "minecraft:empty"
       }
     },
@@ -258,7 +258,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_z30",
+        "location": "backrooms:level_2/ceiling/a30",
         "processors": "minecraft:empty"
       }
     },
@@ -267,7 +267,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x2",
+        "location": "backrooms:level_2/ceiling/b2",
         "processors": "minecraft:empty"
       }
     },
@@ -276,7 +276,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x3",
+        "location": "backrooms:level_2/ceiling/b3",
         "processors": "minecraft:empty"
       }
     },
@@ -285,7 +285,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x4",
+        "location": "backrooms:level_2/ceiling/b4",
         "processors": "minecraft:empty"
       }
     },
@@ -294,7 +294,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x5",
+        "location": "backrooms:level_2/ceiling/b5",
         "processors": "minecraft:empty"
       }
     },
@@ -303,7 +303,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x6",
+        "location": "backrooms:level_2/ceiling/b6",
         "processors": "minecraft:empty"
       }
     },
@@ -312,7 +312,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x7",
+        "location": "backrooms:level_2/ceiling/b7",
         "processors": "minecraft:empty"
       }
     },
@@ -321,7 +321,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x8",
+        "location": "backrooms:level_2/ceiling/b8",
         "processors": "minecraft:empty"
       }
     },
@@ -330,7 +330,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x9",
+        "location": "backrooms:level_2/ceiling/b9",
         "processors": "minecraft:empty"
       }
     },
@@ -339,7 +339,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x10",
+        "location": "backrooms:level_2/ceiling/b10",
         "processors": "minecraft:empty"
       }
     },
@@ -348,7 +348,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x11",
+        "location": "backrooms:level_2/ceiling/b11",
         "processors": "minecraft:empty"
       }
     },
@@ -357,7 +357,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x12",
+        "location": "backrooms:level_2/ceiling/b12",
         "processors": "minecraft:empty"
       }
     },
@@ -366,7 +366,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x13",
+        "location": "backrooms:level_2/ceiling/b13",
         "processors": "minecraft:empty"
       }
     },
@@ -375,7 +375,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x14",
+        "location": "backrooms:level_2/ceiling/b14",
         "processors": "minecraft:empty"
       }
     },
@@ -384,7 +384,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x15",
+        "location": "backrooms:level_2/ceiling/b15",
         "processors": "minecraft:empty"
       }
     },
@@ -393,7 +393,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x16",
+        "location": "backrooms:level_2/ceiling/b16",
         "processors": "minecraft:empty"
       }
     },
@@ -402,7 +402,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x17",
+        "location": "backrooms:level_2/ceiling/b17",
         "processors": "minecraft:empty"
       }
     },
@@ -411,7 +411,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x18",
+        "location": "backrooms:level_2/ceiling/b18",
         "processors": "minecraft:empty"
       }
     },
@@ -420,7 +420,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x19",
+        "location": "backrooms:level_2/ceiling/b19",
         "processors": "minecraft:empty"
       }
     },
@@ -429,7 +429,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x20",
+        "location": "backrooms:level_2/ceiling/b20",
         "processors": "minecraft:empty"
       }
     },
@@ -438,7 +438,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x21",
+        "location": "backrooms:level_2/ceiling/b21",
         "processors": "minecraft:empty"
       }
     },
@@ -447,7 +447,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x22",
+        "location": "backrooms:level_2/ceiling/b22",
         "processors": "minecraft:empty"
       }
     },
@@ -456,7 +456,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x23",
+        "location": "backrooms:level_2/ceiling/b23",
         "processors": "minecraft:empty"
       }
     },
@@ -465,7 +465,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x24",
+        "location": "backrooms:level_2/ceiling/b24",
         "processors": "minecraft:empty"
       }
     },
@@ -474,7 +474,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x25",
+        "location": "backrooms:level_2/ceiling/b25",
         "processors": "minecraft:empty"
       }
     },
@@ -483,7 +483,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x26",
+        "location": "backrooms:level_2/ceiling/b26",
         "processors": "minecraft:empty"
       }
     },
@@ -492,7 +492,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x27",
+        "location": "backrooms:level_2/ceiling/b27",
         "processors": "minecraft:empty"
       }
     },
@@ -501,7 +501,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x28",
+        "location": "backrooms:level_2/ceiling/b28",
         "processors": "minecraft:empty"
       }
     },
@@ -510,7 +510,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x29",
+        "location": "backrooms:level_2/ceiling/b29",
         "processors": "minecraft:empty"
       }
     },
@@ -519,7 +519,7 @@
       "element": {
         "element_type": "minecraft:single_pool_element",
         "projection": "rigid",
-        "location": "backrooms:level_2/ceilings/ceiling_x30",
+        "location": "backrooms:level_2/ceiling/b30",
         "processors": "minecraft:empty"
       }
     }
