@@ -2,19 +2,7 @@
   "type": "minecraft:jigsaw",
   "biomes": "backrooms:pipe_dreams",
   "step": "underground_structures",
-  "spawn_overrides": {
-    "monster": {
-      "bounding_box": "full",
-      "spawns": [
-        {
-          "type": "minecraft:pillager",
-          "weight": 2,
-          "minCount": 4,
-          "maxCount": 4
-        }
-      ]
-    }
-  },
+  "spawn_overrides": {},
   "start_pool": "backrooms:level_2/sewers/sewers_pool",
   "size": 6,
   "start_height": {
