@@ -1,0 +1,19 @@
+{
+  "structures": [
+    {
+      "structure": "backrooms:level_2/sewers_structure",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1909812302,
+    "locate_offset": [
+      0,
+      0,
+      0
+    ],
+    "spacing": 16,
+    "separation": 8
+  }
+}
